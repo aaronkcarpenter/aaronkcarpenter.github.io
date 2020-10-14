@@ -8,6 +8,8 @@ a {
   overflow: scroll;
   max-height: 100vh;
   background-color: #0b1c2f;
+  /* background-color: white; */
+  /* color: black; */
   font-family: Inter, sans-serif;
 }
 
@@ -37,7 +39,8 @@ a {
 
 .name {
   margin-bottom: 40px;
-  color: #47bec7;
+  /* color: #47bec7; */
+  color: #848d96;
   font-size: 16px;
   line-height: 100%;
   letter-spacing: 1px;
@@ -153,7 +156,8 @@ a {
   -webkit-flex: 0 auto;
   -ms-flex: 0 auto;
   flex: 0 auto;
-  background-image: url('../images/AC-Grad-3.jpg');
+  /* background-image: url('../images/AC-Grad-3.jpg'); */
+  background-image: url('../images/github2.png');
   background-position: 50% 50%;
   background-size: cover;
   -o-object-fit: cover;
