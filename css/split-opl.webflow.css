@@ -157,7 +157,9 @@ a {
   -ms-flex: 0 auto;
   flex: 0 auto;
   /* background-image: url('../images/AC-Grad-3.jpg'); */
-  background-image: url('../images/github2.png');
+  /* background-image: url('../images/github2.png'); */
+  background-image: url('../images/untGradMBA2.jpg');
+  /* background-image: url('../images/untGradMBA1.jpg'); */
   background-position: 50% 50%;
   background-size: cover;
   -o-object-fit: cover;
